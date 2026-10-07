@@ -1,0 +1,6 @@
+{
+  "name": "genius-dev",
+  "version": "1.0.0",
+  "description": "Genius coding mode: a 10-role dev council (Lead, Architect, Implementer, Bug Hunter, Security, Performance, Test Engineer, Code Reviewer, Artist, Consumer) that only spends credits when the task is worth it.",
+  "author": { "name": "Ian Carter" }
+}
