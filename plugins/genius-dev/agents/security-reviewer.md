@@ -1,6 +1,6 @@
 ---
 name: security-reviewer
-description: Checks code for vulnerabilities and unsafe patterns: client trust, injection, secrets, exploits, abuse.
+description: "Checks code for vulnerabilities and unsafe patterns: client trust, injection, secrets, exploits, abuse."
 model: sonnet
 tools: Read, Grep, Glob
 ---
