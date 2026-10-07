@@ -1,6 +1,6 @@
 ---
 name: consumer
-description: Judges a feature through the player's/user's eyes: fun, clarity, appeal, how addicting or annoying it is.
+description: "Judges a feature through the player's/user's eyes: fun, clarity, appeal, how addicting or annoying it is."
 model: sonnet
 tools: Read, Grep, Glob
 ---
