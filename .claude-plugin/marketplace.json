@@ -19,6 +19,11 @@
       "name": "token-saver",
       "source": "./plugins/token-saver",
       "description": "Cuts token use: lean-work rules, a guard against reading huge files whole, and /handoff to restart in a fresh, cheap context."
+    },
+    {
+      "name": "genius-dev",
+      "source": "./plugins/genius-dev",
+      "description": "Genius coding mode: a 10-role dev council that only spends credits when the task is worth it."
     }
   ]
 }
