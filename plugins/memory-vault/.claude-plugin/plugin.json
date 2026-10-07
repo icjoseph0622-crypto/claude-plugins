@@ -1,0 +1,7 @@
+{
+  "name": "memory-vault",
+  "version": "1.0.0",
+  "description": "Token-cheap long-term memory: a one-line-per-entry index is loaded at session start; full entries are read only when relevant. Commands: /remember, /recall, /vault-tidy.",
+  "author": { "name": "Ian Carter" },
+  "keywords": ["memory", "context", "notes", "tokens"]
+}
