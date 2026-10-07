@@ -1,0 +1,6 @@
+{
+  "name": "token-saver",
+  "version": "1.0.0",
+  "description": "Cuts token use: lean-work rules at session start, a guard that stops whole reads of huge files, and /handoff to restart in a fresh, cheap context.",
+  "author": { "name": "Ian Carter" }
+}
