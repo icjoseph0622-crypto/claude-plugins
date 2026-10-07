@@ -1,6 +1,6 @@
 ---
 name: architect
-description: Designs the overall solution and structure for a coding task: where code lives, data flow, interfaces, simplest design that fits the existing codebase.
+description: "Designs the overall solution and structure for a coding task: where code lives, data flow, interfaces, simplest design that fits the existing codebase."
 model: sonnet
 tools: Read, Grep, Glob
 ---
