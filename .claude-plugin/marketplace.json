@@ -1,0 +1,19 @@
+{
+  "name": "anyag-tools",
+  "owner": { "name": "Ian Carter" },
+  "metadata": {
+    "description": "Personal Claude Code plugins: a thinking council and a token-cheap memory vault."
+  },
+  "plugins": [
+    {
+      "name": "council",
+      "source": "./plugins/council",
+      "description": "Sharper critical thinking + a 4-agent discussion council (Believer, Skeptic, Investor, Judge) for big decisions."
+    },
+    {
+      "name": "memory-vault",
+      "source": "./plugins/memory-vault",
+      "description": "Long-term memory that is cheap to use: a tiny index loaded at session start, details pulled only when needed."
+    }
+  ]
+}
