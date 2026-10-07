@@ -1,0 +1,7 @@
+{
+  "name": "council",
+  "version": "1.0.0",
+  "description": "Critical-thinking discipline plus a 4-agent discussion council: the Believer argues for, the Skeptic attacks, the Investor weighs cost vs payoff, and the Judge rules.",
+  "author": { "name": "Ian Carter" },
+  "keywords": ["decision", "debate", "critical-thinking", "review"]
+}
