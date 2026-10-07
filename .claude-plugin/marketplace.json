@@ -14,6 +14,11 @@
       "name": "memory-vault",
       "source": "./plugins/memory-vault",
       "description": "Long-term memory that is cheap to use: a tiny index loaded at session start, details pulled only when needed."
+    },
+    {
+      "name": "token-saver",
+      "source": "./plugins/token-saver",
+      "description": "Cuts token use: lean-work rules, a guard against reading huge files whole, and /handoff to restart in a fresh, cheap context."
     }
   ]
 }
