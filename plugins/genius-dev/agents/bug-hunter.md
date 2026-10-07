@@ -1,6 +1,6 @@
 ---
 name: bug-hunter
-description: Hunts bugs and edge cases in a design or changed code: nil, timing, races, wrong assumptions, off-by-one.
+description: "Hunts bugs and edge cases in a design or changed code: nil, timing, races, wrong assumptions, off-by-one."
 model: sonnet
 tools: Read, Grep, Glob
 ---
